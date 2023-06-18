@@ -14,16 +14,9 @@
   text-transform: uppercase;
 }
 
-.tr {
 
-}
-
-.th {
-
-}
-
-.tbody {
-
+.tr:nth-child(2n) {
+    background-color: #c7c7c7;
 }
 
 .td {
